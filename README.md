@@ -1,0 +1,1 @@
+In this project, Eigen 3 and FFTW library are studied for DSP(Digital Signal Processing) purpose. Mainly, use Eigen 3 with matrix to perform DFT(Digital Fourier Transformation) and use FFTW built in FFT(Fast Fourier Transformation) algorithm.
