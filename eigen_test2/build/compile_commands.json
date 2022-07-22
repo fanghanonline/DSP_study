@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fanghan/GM2/DSP_study/eigen_test1/build",
+  "command": "/usr/bin/clang++-11   -I/home/fanghan/GM2/DSP_study/eigen_test1/include -isystem /usr/local/include/eigen3  -g   -o CMakeFiles/eigen_test.dir/src/eigen_test.cpp.o -c /home/fanghan/GM2/DSP_study/eigen_test1/src/eigen_test.cpp",
+  "file": "/home/fanghan/GM2/DSP_study/eigen_test1/src/eigen_test.cpp"
+}
+]

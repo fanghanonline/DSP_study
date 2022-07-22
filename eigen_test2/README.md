@@ -1,0 +1,2 @@
+# This demo compares the basics of the FFTW library with Eigen 3.
+I want to compare the DFT (Discrete Fourier Transformation) speed of both approaches. Eigen 3 is based on Matrix. FFTW uses its own FFT algorithm.
