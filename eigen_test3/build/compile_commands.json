@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fanghan/GM2/DSP_study/eigen_test3/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/eigen_test3.dir/main.cpp.o -c /home/fanghan/GM2/DSP_study/eigen_test3/main.cpp",
+  "file": "/home/fanghan/GM2/DSP_study/eigen_test3/main.cpp"
+}
+]
